@@ -1,0 +1,6 @@
+vazio principal(vazio) {
+    inteiro x;
+    se (x > 0 {
+        x = 1;
+    }
+}

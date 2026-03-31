@@ -1,0 +1,9 @@
+vazio principal(vazio) {
+    inteiro x;
+
+    x = 50;
+
+    enquanto (x > 0) {
+        x = x - 10;
+    }
+}

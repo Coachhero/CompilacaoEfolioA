@@ -1,0 +1,6 @@
+vazio principal(vazio) {
+    inteiro i;
+    para (i = 0; i < 5; i = i + 1) {
+        i = i;
+    }
+}

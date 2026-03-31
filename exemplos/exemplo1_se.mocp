@@ -1,0 +1,13 @@
+vazio principal(vazio) {
+    inteiro x;
+    inteiro y;
+
+    x = 10;
+    y = 5;
+
+    se (x > y) {
+        y = x;
+    } senao {
+        x = y;
+    }
+}

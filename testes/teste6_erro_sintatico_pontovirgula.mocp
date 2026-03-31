@@ -1,0 +1,4 @@
+vazio principal(vazio) {
+    inteiro x
+    x = 10;
+}

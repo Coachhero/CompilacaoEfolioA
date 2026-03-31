@@ -1,0 +1,16 @@
+inteiro fact(inteiro k);
+vazio principal(vazio);
+
+inteiro fact(inteiro k) {
+    se (k <= 1) {
+        retornar 1;
+    } senao {
+        retornar k * fact(k - 1);
+    }
+}
+
+vazio principal(vazio) {
+    inteiro n;
+    n = 5;
+    escrever(fact(n));
+}

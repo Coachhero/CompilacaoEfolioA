@@ -1,0 +1,7 @@
+vazio principal(vazio) {
+    inteiro x;
+    x = 10;
+    se (x > 5) {
+        x = x - 1;
+    }
+}
